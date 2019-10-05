@@ -1,5 +1,11 @@
 #!/bin/bash
-#set -x
+#######################################
+#                                     #
+#          Lets-try-Solar             #
+#                                     #
+#   Author: hemmi@lets-try-solar.de   #
+#                                     #
+#######################################
 
 scriptpath="$( cd "$(dirname "$0")" ; pwd -P )"
 username="EMAIL-ADDRESS"
