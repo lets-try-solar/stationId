@@ -19,5 +19,5 @@ chmod +x get_StationId.sh
 ```bash
 ./get_StationId.sh
 StationId: XXXXXXX
-```:wq
+```
 
